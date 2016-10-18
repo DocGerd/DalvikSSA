@@ -21,8 +21,7 @@ There are already frameworks to create analysis tools, such as:
 - WALA [Wal]
 - Soot [Soo]
 
-Unfortunately there are no frameworks which support data-
-ow analysis on Android
+Unfortunately there are no frameworks which support data-flow analysis on Android
 bytecode. Our target is to create such an analysis tool for Android bytecode by extending
 one of the currently available frameworks. These frameworks use an intermediate
 language to increase extendability for new languages and to simplify later algorithms,
