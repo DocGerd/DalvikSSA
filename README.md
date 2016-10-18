@@ -10,7 +10,7 @@ operating system, preceded only by Symbian.
 Android's base is a Linux-kernel, usually programmes are written in Java and must be
 compiled with the Android-SDK. Normally compiling Java code creates bytecode (see
 next chapter) which is run in a virtual machine (VM), Android uses a special form of
-bytecode. The main dierence is, that Bytecode of Java on PC is run in the Java-VM,
+bytecode. The main difference is, that Bytecode of Java on PC is run in the Java-VM,
 which is stack-based, Android uses its own virtual machine called Dalvik-VM, which
 uses register-based instructions.
 There are many Android applications, so-called apps. Each day the amount of apps is
